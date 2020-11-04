@@ -14402,8 +14402,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/kat/Downloads/Programacion/USMP/Tarea3Nov/Tarea/Views/Producto/Producto.cshtml",
+      "TargetPath": "Views\\Producto\\Producto.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/kat/Downloads/Programacion/USMP/Tarea3Nov/Tarea/Views/_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/kat/Downloads/Programacion/USMP/Tarea3Nov/Tarea/Views/Producto/ProductoConfirmacion.cshtml",
+      "TargetPath": "Views\\Producto\\ProductoConfirmacion.cshtml",
       "FileKind": "mvc"
     },
     {

@@ -9,11 +9,11 @@ using Tarea.Models;
 
 namespace Tarea.Controllers
 {
-    public class HomeController : Controller
+    public class ProductoController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private readonly ILogger<ProductoController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
+        public ProductoController(ILogger<ProductoController> logger)
         {
             _logger = logger;
         }
